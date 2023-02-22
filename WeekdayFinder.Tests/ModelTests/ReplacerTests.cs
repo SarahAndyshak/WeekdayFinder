@@ -17,4 +17,4 @@ namespace WeekdayFinder.Tests
       Assert.AreEqual(ReplaceWord(phrase), "Hello, this is a passing test!");
     }
   }
-}
+} 

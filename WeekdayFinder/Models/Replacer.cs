@@ -1,8 +1,12 @@
+using WeekdayFinder.Models;
+using System.Collections.Generic;
+using System;
+
 namespace WeekdayFinder.Models
 {
   public class Replacer
   {
-    public static string ReplaceWord(string phrase, string word1, string word2)
+    public static string ReplaceWord()
     {
       return "abc";
     }

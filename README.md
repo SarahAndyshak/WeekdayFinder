@@ -19,7 +19,7 @@ An application that checks the day of the week, and finds and replaces words.
 
 ## Known Bugs
 
-No known bugs at this time.
+No known bugs at this time. Word Replacer in progress.
 
 ## License
 Enjoy the site! If you have questions or suggestions for fixing the code, please contact us!
