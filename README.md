@@ -1,4 +1,4 @@
-# Scrabble Scorer
+# Weekday Finder and Find & Replace
 
 #### By Molly Donegan, Sarah Andyshak, David Jandron, Erin Timlin, Jackson Levine, Asia Kaplanyan
 
@@ -8,7 +8,7 @@
 * VS Code
 
 ## Description
-An application that returns a Scrabble score for an inputted word.
+An application that checks the day of the week, and finds and replaces words.
 
 ### Setup Instructions
 

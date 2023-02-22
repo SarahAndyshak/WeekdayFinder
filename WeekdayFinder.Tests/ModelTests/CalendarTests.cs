@@ -11,12 +11,8 @@ namespace WeekdayFinder.Tests
     [TestMethod]
     public void CheckDay_ReturnsCorrectDay_Weekday()
     {
-      string dayWeek = CheckDay.WeekDay();
+      string dayWeek = CheckDay.WeekDay(2023, 2, 22);
       Assert.AreEqual("Wednesday", dayWeek);
-
-    //  // DayOfWeek expectedDayOfWeek = CalculateWeekDay(date);
-    //  // DayOfWeek expectedDayOfWeek = date.DayOfWeek;
-    //  // Assert.AreEqual(expectedDayOfWeek, DayOfWeek.Thursday);
     }
   }
 }
